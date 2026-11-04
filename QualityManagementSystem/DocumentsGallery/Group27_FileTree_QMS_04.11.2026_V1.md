@@ -1,0 +1,47 @@
+Quality Management System
+
+Documents Gallery
+
+Group27_FileList_QMS_04.11.2206_V2
+
+Group27_FileTree_QMS_04.11.2026_V1
+
+Engineering
+
+Human Resources
+
+Group27_GanttChart_AdvancedTimeManagement_02.11.2026.V1.png
+
+Group27_GanttChart_AdvancedTimeManagement_02.11.2026_V1.pdf
+
+Group27_GanttChart_AdvancedTimeManagement_02.11.2026_V1.pod
+
+Group27_GanttChart_AdvancedTimeManagement_04.11.2026_V2.pdf
+
+Group27_DesignAndDevelopmentMatrix_QualityManagementSytem_02.11.2026_V.1
+
+Group27_ProjectManagement_AdvancedProjectManagement_04.11.2026_V3
+
+Group27_SkillsMatrix_TeamLeadership_02.11.2026_V.1
+
+Operations
+
+Purchasing
+
+Quality Control
+
+Quality Documents
+
+Group27_NamingFiles_QualityManagementSystem_ 02.11.2026_V.1
+
+Group27_TeamCharter_TeamLeadership_04.11.2026_V6
+
+Sales and Customer Support
+
+Group27_Presentation_ScientificCommuniaction_04.11.2026_V1
+
+Sustainability
+
+Group27_LifeCycleAssessment_CircularEconomy_04.11.2026_V1
+
+
